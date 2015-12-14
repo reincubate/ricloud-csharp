@@ -14,6 +14,12 @@ There are two core parts to the API: the JSON feed mechanism, and the raw file a
 
 ## Installation
 
+If you are using the NuGet Package Manager you can download and install the ricloud package using the following command:
+
+```Install-Package ricloud```
+
+Or you can download the package directly from the [NuGet Gallery](https://www.nuget.org/packages/ricloud/)
+
 The source code can be compiled in Visual Studio 2010 or 2015 (other versions may also work). The only third-party dependency is currently Newtonsoft.JSON which is available to download via NuGet or directly from www.json.net .
 
 ### Configuration
