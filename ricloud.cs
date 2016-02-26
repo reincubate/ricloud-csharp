@@ -24,8 +24,7 @@ namespace Reincubate.ricloud {
 
         #region Public properties and associated private variables
 
-        //protected const string mAPIURLBase = "https://api.icloudextractor.com";
-        protected const string mAPIURLBase = "http://stage-icloud-api.reincubate.com";
+        protected const string mAPIURLBase = "https://api.icloudextractor.com";
         /// <summary>
         /// Base URL for the Reincubate iCloud Extractor API
         /// </summary>
